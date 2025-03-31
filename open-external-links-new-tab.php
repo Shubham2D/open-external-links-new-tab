@@ -4,6 +4,7 @@
  * Description: Automatically opens all external links in a new tab with rel="noopener".
  * Version: 1.0
  * Author: Shubham Sawarkar
+ * Author URI: https://github.com/Shubham2D
  * License: MIT
  */
 
