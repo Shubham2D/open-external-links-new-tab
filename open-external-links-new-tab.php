@@ -3,7 +3,7 @@
  * Plugin Name: Open External Links in New Tab
  * Description: Automatically opens all external links in a new tab with rel="noopener".
  * Version: 1.0
- * Author: Your Name
+ * Author: Shubham Sawarkar
  * License: MIT
  */
 
